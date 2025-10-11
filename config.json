@@ -1,8 +1,8 @@
 {
   "multiplier_schedule": {
     "schedule": {
-      "start_time": 84093247432987,
-      "expiration_time": 94786234786
+      "start_time": "84093247432987",
+      "expiration_time": "94786234786"
     },
     "timezone": "UK"
   }
