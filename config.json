@@ -1,1 +1,5 @@
-
+{
+  "discountEnabled": true,
+  "eventName": "Halloween Sale",
+  "multiplier": 1.5
+}
